@@ -6,10 +6,10 @@ const MAX_RESULTS = 8;
 
 // Demo videos used when API is not configured
 const SAMPLE_VIDEOS = [
-  { id: 'Ve_6ee34Mg4', title: 'Bfav Announcement Trailer' },
-  { id: '446c3lVlnBU', title: "BFAV 1: THERE'S ONLY 14 NEWBIES!!!" },
-  { id: '1gm_E-97kLA', title: 'BFAV 2: A NEW HOST!?' },
-  { id: 'MoVwxT3lXk0', title: 'BFAV 2 Trailer' }
+  { id: '446c3lVlnBU', title: 'BFAV 1: THERE'S ONLY 14 NEWBIES!!!' },
+  { id: '1gm_E-97kLA', title:  'BFAV 2: A NEW HOST!?' },
+  { id: 'Mebe9ffmfL4', title: 'BFAV 3: HELP WANTED!!!' },
+  { id: 'Cg6DE0VLQUY', title: '(OFFICAL) NEW BFAV AUDIO LEAK!' }
 ];
 
 const CHANNEL_URL = 'https://www.youtube.com/@PRGOfficalYT?sub_confirmation=1';
